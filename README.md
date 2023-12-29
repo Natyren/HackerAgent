@@ -13,6 +13,9 @@ HackerAgent Telegram Bot is a versatile and efficient tool designed to organize 
 ### 3. **User-Friendly Interaction**
    - Enjoy a seamless and intuitive interaction with the bot. Navigate through news articles effortlessly and engage with the content without leaving your Telegram chat.
 
+## Current status
+
+[FIRST VERSION IN DEVELOPMENT PHASE]
 
 ## Contributing
 All contributions are welcome. If you'd like to contribute to HackerAgent, please follow our [contribution guidelines](CONTRIBUTING.md).
